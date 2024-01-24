@@ -1,3 +1,3 @@
-/// load.js
+/// preload.js
 
 console.log("Loading verge...");
