@@ -31,7 +31,7 @@ function calculatePercentile(value, array) {
 
 
 // We breaching the mainframe with this one 🔥🔥🔥
-// console.log("Injected Verge sucessfully");
+console.log('injecting verge');
 
 
 
