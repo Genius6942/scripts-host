@@ -36,7 +36,6 @@ console.log('injecting verge');
 
 
 
-window.addEventListener('load', function () {
 
 	// Big async function that runs on page load.
 	async function main() {
@@ -535,4 +534,3 @@ window.addEventListener('load', function () {
 	main();
 
 
-})
